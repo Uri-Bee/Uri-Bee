@@ -4,7 +4,6 @@
 - 😄 I am diving in the Devops´ world!
 
 ![Uri-Bee's GitHub stats](https://github-readme-stats.vercel.app/api?username=uri-bee&show_icons=true&theme=radical)
-
 <div style="display: inline_block"><br>
   <img align="center" alt="Uri-Linux" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
   <img align="center" alt="Uri-Python" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" />
