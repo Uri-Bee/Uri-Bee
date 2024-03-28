@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Uriel Cabita.👋
 
 - 🌱 I’m currently learning Python
-- 😄 Pronouns: He/His
+- 😄 I am diving in the Dev´s world!
 
 ![Uri-Bee's GitHub stats](https://github-readme-stats.vercel.app/api?username=uri-bee&show_icons=true&theme=radical)
 
