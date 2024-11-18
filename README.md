@@ -1,7 +1,7 @@
 ## Olá! Eu sou o Uriel Cabita.👋
 
 - 🌱 I’m currently learning Python
-- 😄 I am diving in the Devops´ world!
+- 😄 I am diving in the DevNet´ world!
 
 ![Uri-Bee's GitHub stats](https://github-readme-stats.vercel.app/api?username=uri-bee&show_icons=true&theme=radical)
 
