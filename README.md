@@ -1,7 +1,7 @@
-## Olá! Eu sou o Uriel Cabita.👋
+## Hi! I’m Uriel Cabita.👋
 
 - 🌱 I’m currently learning Python, HTML5 and CSS3
-- 😄 I am diving in the DevNet´ world!
+- 😄 I am diving in the WebDevs’ world!
 
 ![Uri-Bee's GitHub stats](https://github-readme-stats.vercel.app/api?username=uri-bee&show_icons=true&theme=radical)
 
